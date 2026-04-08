@@ -2,7 +2,8 @@
 
 A beautiful, interactive wall calendar built with React — inspired by the aesthetic of a physical desk calendar with a spiral binding, hero photography, and a clean grid layout.
 
----
+<img width="1229" height="620" alt="Screenshot 2026-04-09 at 2 04 55 AM" src="https://github.com/user-attachments/assets/f257ffe5-1033-4814-a203-982ea3c5be64" />
+
 
 ## ✨ Features
 
@@ -16,7 +17,8 @@ A beautiful, interactive wall calendar built with React — inspired by the aest
 - **Spiral binding UI** — decorative metal coil rendered purely in CSS
 - **Responsive layout** — adapts for mobile and tablet screens
 
----
+
+
 
 ## 🛠 Design Choices
 
